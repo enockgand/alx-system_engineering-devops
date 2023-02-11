@@ -1,0 +1,2 @@
+#!/bin/bash
+chrgrp -R staff vincent
