@@ -1,2 +1,2 @@
 #!/bin/bash
-MyUser="root" | echo hello $MyUser
+echo "hello root"
